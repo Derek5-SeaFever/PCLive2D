@@ -1,0 +1,24 @@
+{
+  "name": "PCLive2Dx3.0",
+  "version": "3.1.1",
+  "description": "A Program can put Live2D model on your Desktop!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+	"package": "electron-packager ./ PCLive2D --out ./OutApp --version 3.1.1 --overwrite --icon=./imgs/icon/pcl2d.ico"
+  },
+  "repository": "",
+  "keywords": [
+    "Electron",
+    "PClive2D",
+    "x3.0"
+  ],
+  "author": "Seaver",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^8.1.1"
+  },
+  "dependencies": {
+    "electron-drag": "^1.2.2"
+  }
+}
