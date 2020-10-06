@@ -16,7 +16,7 @@
   "author": "Seaver",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^8.1.1"
+    "electron": "^8.5.1"
   },
   "dependencies": {
     "electron-drag": "^1.2.2"
