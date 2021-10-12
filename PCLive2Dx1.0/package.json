@@ -4,7 +4,7 @@
   "description": "第一代比较粗糙，以后慢慢完善！水平还不够，有些BUG搞不过来了(ノへ￣、)！大家可以留言给我，让我知道哪还有BUG，方便下个版本的完善！谢谢大家的支持！",
   "main": "main.js",
   "dependencies": {
-    "electron": "^8.0.2",
+    "electron": "^11.5.0",
     "http-server": "^0.12.1"
   },
   "devDependencies": {
